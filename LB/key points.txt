@@ -1,0 +1,6 @@
+* // binary search ke liye //
+jab ans integer(kehne ka matlab koi ek range me se jaise 0 se 100 ya 0 se n) me 
+dena ho toh binary search wali approach use karni ha.
+har step me non solutions elements ko eliminate karo.
+|--> uppar wala point dhang se samjhne ke liye Lecture 15(book allocation wali)
+		dekhna 49:30 se.
